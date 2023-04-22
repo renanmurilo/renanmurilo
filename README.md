@@ -17,34 +17,34 @@ Here are some ideas to get you started:
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" /> 
     </a>
     <a href="https://css-tricks.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40" /> 
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="60" height="60" /> 
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> 
+            alt="javascript" width="60" height="60" /> 
     </a>
     <a href="https://sass-lang.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-            width="40" height="40" /> 
+            width="60" height="60" /> 
     </a>
     <a href="https://br.wordpress.org/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="WordPress"
-            width="40" height="40" /> 
+            width="60" height="60" /> 
     </a>
     <a href="https://vuejs.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60" /> 
     </a>
     <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" /> 
     </a>
     <a href="https://nuxtjs.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" /> 
+        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="60" height="60" /> 
     </a>
     <a href="https://quasar.dev/" target="_blank"> 
-        <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40" /> 
+        <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="60" height="60" /> 
     </a>
 </p>
 
