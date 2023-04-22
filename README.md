@@ -1,5 +1,5 @@
-#### Hi there 👋 I'm Renan Gomes
-## I'm Front-end Developer
+# Hi there 👋 I'm Renan Gomes
+### I'm Front-end Developer
 
 <!--
 **renanmurilo/renanmurilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
