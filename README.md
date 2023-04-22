@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Renan Gomes
+#### Hi there 👋 I'm Renan Gomes
 ## I'm Front-end Developer
 
 <!--
