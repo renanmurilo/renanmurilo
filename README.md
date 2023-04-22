@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Renan Gomes
+## I'm Front-end Developer
 
 <!--
 **renanmurilo/renanmurilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">Languages:</h3>
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> 
@@ -37,14 +40,14 @@ Here are some ideas to get you started:
     <a href="https://vuejs.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60" /> 
     </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" /> 
-    </a>
     <a href="https://nuxtjs.org/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="60" height="60" /> 
     </a>
     <a href="https://quasar.dev/" target="_blank"> 
         <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="60" height="60" /> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" /> 
     </a>
 </p>
 
