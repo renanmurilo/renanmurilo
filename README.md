@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Languages:</h3>
+### Languages:
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> 
