@@ -1,5 +1,12 @@
 # Hi there 👋 I'm Renan Gomes
-### I'm Front-end Developer
+## I'm Front-end Developer
+
+### Connect with me:
+<p align="left">
+    <a href="https://www.linkedin.com/in/renanmurilo/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="30" height="30" /> 
+    </a>
+</p>
 
 <!--
 **renanmurilo/renanmurilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
